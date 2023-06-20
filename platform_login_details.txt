@@ -1,0 +1,7 @@
+Super Admin login 
+Email : superadmin@upgrade.com
+password : SuperAdmin@123
+=======================================
+Admin login
+email : admin@gmail.com
+passwprd : Admin@123
